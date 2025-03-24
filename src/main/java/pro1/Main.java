@@ -21,7 +21,7 @@ public class Main {
             }, 60, 0.4, 0.4);
             Group g3 = new Group(new Drawable[]{g1, g2}, 0, 1, 1);
             Ellipse elipsa = new Ellipse(20, 10, 500, 200, "#000000");
-            new MainFrame(g2);
+            new MainFrame(g3);
 
 
         });
